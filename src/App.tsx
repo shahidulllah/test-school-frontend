@@ -10,7 +10,7 @@ import TestStepPage from "./pages/TestStepPage";
 import ProfilePage from "./pages/ProfilePage";
 import CertificatePage from "./pages/CertificatePage";
 import NotFoundPage from "./pages/NotFoundPage";
-import HomePage from "./pages/home/HomePage";
+import HomePage from "./pages/HomePage";
 import LoginPage from "./pages/LoginPage";
 import Registerpage from "./pages/Registerpage";
 import type { JSX } from "react";
