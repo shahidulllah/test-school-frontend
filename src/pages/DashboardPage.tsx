@@ -1,2 +1,10 @@
-const DashboardPage = () => <div className="p-4">Dashboard (Protected)</div>;
+
+const DashboardPage = () => {
+    return (
+        <div>
+            This is protected dashboard
+        </div>
+    );
+};
+
 export default DashboardPage;
