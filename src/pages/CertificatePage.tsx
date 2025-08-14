@@ -1,2 +1,6 @@
-const CertificatePage = () => <div className="p-4">Certification Page</div>;
+const CertificatePage = () => {
+    return (
+        <div className="p-4">Certification Page</div>
+    )
+};
 export default CertificatePage;
